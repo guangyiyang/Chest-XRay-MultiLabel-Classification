@@ -1,5 +1,4 @@
 # Chest-XRay-MultiLabel-Classification
-Chest X-Ray Multi-Label Disease Classification Using Deep Learning
 
 A deep learning project for classifying multiple thoracic diseases from chest X-ray images.
 
